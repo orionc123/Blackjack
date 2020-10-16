@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="deal">Deal</string>
+    <string name="hit">Hit</string>
+    <string name="stay">Stay</string>
+    <string name="play">Let\'s Play!</string>
+    <string name="shuffle">Shuffle</string>
+
+    <integer-array name="startingAmounts">
+        <item>1000</item>
+        <item>2500</item>
+        <item>5000</item>
+        <item>7500</item>
+        <item>10000</item>
+    </integer-array>
+</resources>

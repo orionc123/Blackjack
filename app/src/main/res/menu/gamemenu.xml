@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".GameActivity">
+    <item
+        android:id="@+id/action_nexthand"
+        android:enabled="true"
+        android:title="Next Hand"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_newgame"
+        android:enabled="true"
+        android:title="New Game"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>
